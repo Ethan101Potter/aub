@@ -1,6 +1,4 @@
-<p align="center">
-<img src="./SelfyAI.png" width="1024">
-</p>
+
 
 #  SelfyAI – Your AI. Your Asset. Your Future.
 
@@ -111,17 +109,4 @@ To start in production mode:
 ```bash
 yarn start
  ```
-
-## ✨ Contributors
-<a href="https://github.com/transitive-bullshit"><img src="https://avatars.githubusercontent.com/u/552829?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-<a href="https://github.com/HenryHengZJ"><img src="https://avatars.githubusercontent.com/u/26460777?v=4" alt="Contributor" style="width:8%; border-radius: 100%;"/></a>
-<a href="https://github.com/feder-cr"><img src="https://avatars.githubusercontent.com/u/85809106?v=4" alt="Contributor" style="width:8%; border-radius: 10%;"/></a>
-<a href="https://github.com/Dr-Left"><img src="https://avatars.githubusercontent.com/u/39025643?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-<a href="https://github.com/frdel"><img src="https://avatars.githubusercontent.com/u/38891707?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-<a href="https://github.com/suhasdeshpande"><img src="https://avatars.githubusercontent.com/u/606167?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-<a href="https://github.com/ValentaTomas"><img src="https://avatars.githubusercontent.com/u/49156497?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-<a href="https://github.com/NirDiamant"><img src="https://avatars.githubusercontent.com/u/28316913?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-<a href="hhttps://github.com/tonykipkemboi"><img src="https://avatars.githubusercontent.com/u/64493665?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-<a href="https://github.com/mayooear"><img src="https://avatars.githubusercontent.com/u/107035552?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
-<a href="https://github.com/Fosowl"><img src="https://avatars.githubusercontent.com/u/49105846?v=4" alt="Contributor" style="width:8%; border-radius: 50%;"/></a>
 
